@@ -1,1 +1,2 @@
 print("Ahmad")
+print("Ali")
