@@ -1,2 +1,3 @@
 print("Ahmad")
-print("Ali")
+x=2
+v=0
